@@ -1,0 +1,21 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "A website with books cover ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergiu Petrut",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.8",
+    "nodemon": "^2.0.16"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
